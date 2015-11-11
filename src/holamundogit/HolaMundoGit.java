@@ -17,7 +17,8 @@ public class HolaMundoGit {
      */
     public static void main(String[] args) {
         System.out.print("Hola Mundo ");
-        System.out.println("Rojo");
+        System.out.print("Rojo ");
+        System.out.println("Asul");
     }
     
 }
